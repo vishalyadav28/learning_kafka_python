@@ -18,7 +18,7 @@ This project demonstrates the use of Kafka with Python for producing and consumi
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone
 cd kafka-python-learning
 ```
 
